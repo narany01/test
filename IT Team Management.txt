@@ -1,0 +1,12 @@
+IT조직의 RNR, Misson
+
+1. 기획, 관리
+2. System
+	SI 프로젝트
+	SM 운영, 관리
+3. Infra	
+	Server
+	Network
+4. 정보보안
+5. PC 관리
+
